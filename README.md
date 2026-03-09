@@ -10,4 +10,4 @@ Language: Python
 
 Run the program using:
 
-python largest-number-array.py
+largest-number-array.py
